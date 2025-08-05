@@ -37,14 +37,12 @@ const Hero = () => {
           <div className="w-24 h-1 bg-gradient-to-r from-purple-500 via-pink-500 to-blue-500 mx-auto mb-8 rounded-full shadow-lg shadow-purple-500/50"></div>
 
           {/* Main heading */}
-          <h3 className="text-4xl md:text-7xl lg:text-6xl font-bold text-white mb-6 tracking-tight">
+          <h3 className="text-3xl md:text-5xl lg:text-6xl font-bold text-white mb-6 tracking-tight">
             <span className="bg-gradient-to-r from-white via-gray-200 to-gray-400 bg-clip-text text-transparent">
-              LIFE PLANNER 
+              LIFE PLANNER PAGES
             </span>
             
-            <span className="bg-gradient-to-r from-purple-400 via-pink-400 to-blue-400 bg-clip-text text-transparent ml-5">
-              PAGES
-            </span>
+            
           </h3>
 
 
