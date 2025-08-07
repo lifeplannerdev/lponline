@@ -127,7 +127,7 @@ Official website for flaggurukulam            </p>
 
           {/* Card 4: LPCRM App */}
           <a
-            href="https://bloody-candida-lifeplannerworkflow-2355fe6b.koyeb.app/"
+            href="https://lpcrm.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="group block"
